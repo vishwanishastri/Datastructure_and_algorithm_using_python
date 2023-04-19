@@ -12,7 +12,7 @@ def bubble_sort(my_list):
 
 
 op = bubble_sort([4,5,8,10,3])
-print(op)
+print
 
 
 #selection sort = bubble sort + indexes of list should be taken care
